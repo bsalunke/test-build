@@ -1,0 +1,2 @@
+FROM alpine
+LABEL AWS_CODE_BUILD_TEST=true
